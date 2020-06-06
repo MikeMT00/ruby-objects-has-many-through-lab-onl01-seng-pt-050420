@@ -28,7 +28,7 @@ class Patient
 
 
     def self.all
-        @@all 
+        @@all
     end
 
 
